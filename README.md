@@ -1,3 +1,9 @@
+
+# Modern React with Redux
+## Sección 12: Practicing Props and State Design
+210. Event Capture and Bubbling
+
+
 # ReactNavigation
 
 Navigation from scratch
